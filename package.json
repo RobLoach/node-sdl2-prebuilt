@@ -1,6 +1,6 @@
 {
 	"name": "node-sdl2-prebuilt",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Installs a compiled version of SDL2.",
 	"author": "Rob Loach <robloach@gmail.com>",
 	"license": "MIT"
